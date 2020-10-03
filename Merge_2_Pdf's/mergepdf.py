@@ -7,7 +7,7 @@ input("\nPress ENTER to begin the SCRIPT !!!\n")
 
 firstPdf = input("\nEnter the EXACT NAME of your first PDF: \n") + ".pdf"
 
-secondPdf = input("\nEnter the PATH of your second PDF:\n") + ".pdf"
+secondPdf = input("\nEnter the EXACT NAME of your second PDF:\n") + ".pdf"
 
 result = input("\nEnter the final name of the Merged PDF: \n") + ".pdf"
 
